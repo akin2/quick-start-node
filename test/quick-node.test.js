@@ -1,4 +1,4 @@
-const { expect:chaiExpect } = require('chai');
+const { expect: chaiExpect } = require('chai');
 require('dotenv').config();
 const constants = require('../constants');
 
